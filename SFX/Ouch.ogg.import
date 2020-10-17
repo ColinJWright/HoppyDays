@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Ouch.ogg-0b412d48d2bc7da8b7bc55b6dfeff6f5.oggstr"
+
+[deps]
+
+source_file="res://SFX/Ouch.ogg"
+dest_files=[ "res://.import/Ouch.ogg-0b412d48d2bc7da8b7bc55b6dfeff6f5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
