@@ -27,19 +27,19 @@ tile_data = PoolIntArray( -458676, 6, 0, -327641, 7, 0, -327604, 6, 0, -196532, 
 [node name="Coins" type="Node" parent="."]
 
 [node name="Coin" parent="Coins" instance=ExtResource( 8 )]
-position = Vector2( -1032.96, 1528.22 )
+position = Vector2( -1104.96, 1200.22 )
 
 [node name="Coin2" parent="Coins" instance=ExtResource( 8 )]
-position = Vector2( -424.15, 1531.58 )
+position = Vector2( -700.15, 1051.58 )
 
 [node name="Coin3" parent="Coins" instance=ExtResource( 8 )]
-position = Vector2( 403.292, 1534.95 )
+position = Vector2( -336.209, 993.005 )
 
 [node name="Coin4" parent="Coins" instance=ExtResource( 8 )]
-position = Vector2( 1082.74, 1531.58 )
+position = Vector2( 420.659, 535.789 )
 
 [node name="Coin5" parent="Coins" instance=ExtResource( 8 )]
-position = Vector2( 2021.18, 1524.86 )
+position = Vector2( 1812.94, 91.2421 )
 
 [node name="Coin6" parent="Coins" instance=ExtResource( 8 )]
 position = Vector2( 43.3887, 865.593 )
