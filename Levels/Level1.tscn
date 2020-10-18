@@ -148,4 +148,4 @@ autoplay = true
 [node name="GUI" parent="." instance=ExtResource( 7 )]
 
 [node name="Portal" parent="." instance=ExtResource( 11 )]
-position = Vector2( 4676, 520 )
+position = Vector2( 4681.04, 734.187 )
