@@ -94,9 +94,6 @@ position = Vector2( -931.458, 75.8181 )
 [node name="Spikeman" parent="NPCs" instance=ExtResource( 9 )]
 position = Vector2( 2178.63, 1522.19 )
 
-[node name="Spikeman4" parent="NPCs" instance=ExtResource( 9 )]
-position = Vector2( -639.259, 236.747 )
-
 [node name="Spikeman2" parent="NPCs" instance=ExtResource( 9 )]
 position = Vector2( 3626.34, 1525.36 )
 
